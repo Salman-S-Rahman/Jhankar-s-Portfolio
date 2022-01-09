@@ -164,3 +164,11 @@ h1 {
 }
 
 /* ============= experience part end ========== */
+
+footer {
+    background-color: rgb(2, 2, 27);
+    padding: 20px 0;
+    text-align: center;
+    color: #f1f1f1;
+    
+}
