@@ -9,6 +9,29 @@ h1 {
     font-size: 45px;
 }
 
+/* ================ common css end ========== */
+.nav_part{
+    background-color: rgb(2, 2, 27);
+    padding: 20px 0;
+    text-align: center;
+}
+
+.nav_part a {
+    text-decoration: none;
+    color: #f1f1f1;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 20px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.nav_part a:hover {
+    color: #FA705B;
+}
+
+/* =============== nav part end ============ */
+
 .orange_color {
     color: #FB6756;
 }
@@ -170,5 +193,5 @@ footer {
     padding: 20px 0;
     text-align: center;
     color: #f1f1f1;
-    
+
 }
